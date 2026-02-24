@@ -25,7 +25,7 @@ Easily monitor, visualize, and interact with your running services.
 
 ## 🎥 Demo Video
 Check out the demo on YouTube:  
-[![Watch the demo](git_assets/thumb)](https://youtube.com/shorts/fOizLdQysm8?si=DYiZcl9TAbcWJE9f)
+[![Watch the video](git_assets/thumb.png)](https://youtube.com/shorts/fOizLdQysm8?si=mO1FhvdvlOxDTCZh)
 
 ---
 
